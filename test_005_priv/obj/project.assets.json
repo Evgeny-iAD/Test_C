@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\PYTHON\\Project_Py\\tests_C\\test_004_del\\test_004_del.csproj",
+      "projectUniqueName": "H:\\PYTHON\\Project_Py\\tests_C\\test_005_priv\\test_004_del.csproj",
       "projectName": "test_004_del",
-      "projectPath": "H:\\PYTHON\\Project_Py\\tests_C\\test_004_del\\test_004_del.csproj",
+      "projectPath": "H:\\PYTHON\\Project_Py\\tests_C\\test_005_priv\\test_004_del.csproj",
       "packagesPath": "C:\\Users\\iAD\\.nuget\\packages\\",
-      "outputPath": "H:\\PYTHON\\Project_Py\\tests_C\\test_004_del\\obj\\",
+      "outputPath": "H:\\PYTHON\\Project_Py\\tests_C\\test_005_priv\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iAD\\AppData\\Roaming\\NuGet\\NuGet.Config"

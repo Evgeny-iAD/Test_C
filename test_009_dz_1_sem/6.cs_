@@ -1,0 +1,19 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+double number_d = number;
+number_d = number_d/2;
+
+if ((number_d % 1) == 0)
+{
+Console.WriteLine("Число четное");
+}
+else
+{
+Console.WriteLine("Число нечетное");
+}
+
+
+
+
+

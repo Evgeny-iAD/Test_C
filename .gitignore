@@ -27,7 +27,7 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-test_002/bin/
+tests_old/test_002/bin/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
